@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "legacy_uid": "f3674d77-68ae-e4af-a6c9-ed8a82bda851",
+  "instructors": {
+    "content": [
+      "f7fa0801-6ff6-9926-9da1-49c325b4a5b1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "795b388d-e4e7-59f7-9b52-dcb644ceb895",
+    "website": "1-259j-transit-management-fall-2006"
+  },
+  "course_title": "Transit Management",
+  "course_description": "This course discusses management methods of relevance to public transportation systems. Topics include strategic planning management, labor relations, maintenance planning and administration, financing, marketing and fare policy, and management information and decision support systems. The course shows how these general management tasks are dealt with in the transit industry and presents alternative strategies. It also identifies alternative arrangements for service provision, including different ways of involving the private sector in public transportation.\n",
+  "department_numbers": [
+    "1",
+    "11",
+    "ESD"
+  ],
+  "extra_course_numbers": "11.542J,ESD.227J",
+  "primary_course_number": "1.259J",
+  "course_image_thumbnail": {
+    "content": "d166217b-1300-db96-b177-4e0e7af31001",
+    "website": "1-259j-transit-management-fall-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "448622ee-9afb-4bea-bca7-6e0863ce4c93",
+  "site_short_id": "1.259j-fall-2006",
+  "site_url_path": "courses/1-259j-transit-management-fall-2006",
+  "title": "Course Metadata"
+}
