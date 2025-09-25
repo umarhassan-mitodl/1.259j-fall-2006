@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains instructions for accessing resources related to
   the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

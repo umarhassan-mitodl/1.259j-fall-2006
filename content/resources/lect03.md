@@ -5,6 +5,8 @@ description: This resource contains slides on the bus deregulation outside Londo
 file: /courses/1-259j-transit-management-fall-2006/d3aa794b84a92e0649ee0c0547aa1c7c_lect03.pdf
 file_size: 118897
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -27,6 +27,7 @@
     "website": "1-259j-transit-management-fall-2006"
   },
   "course_title": "Transit Management",
+  "hide_download": true,
   "course_description": "This course discusses management methods of relevance to public transportation systems. Topics include strategic planning management, labor relations, maintenance planning and administration, financing, marketing and fare policy, and management information and decision support systems. The course shows how these general management tasks are dealt with in the transit industry and presents alternative strategies. It also identifies alternative arrangements for service provision, including different ways of involving the private sector in public transportation.\n",
   "department_numbers": [
     "1",
@@ -39,6 +40,7 @@
     "content": "d166217b-1300-db96-b177-4e0e7af31001",
     "website": "1-259j-transit-management-fall-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

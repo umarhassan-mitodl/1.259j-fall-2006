@@ -5,6 +5,8 @@ description: This resource contains the organizational schemes types of transit 
 file: /courses/1-259j-transit-management-fall-2006/b0971b686db5b7fa1869f81f7d5354bb_lect0506ja.pdf
 file_size: 51423
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

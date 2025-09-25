@@ -4,6 +4,8 @@ description: This resource contains explanation on TCRP.
 file: /courses/1-259j-transit-management-fall-2006/3c9d1ecb1f8832c676a6014f733ffca3_tsyn33.pdf
 file_size: 632187
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains slides on office automation and communicatio
 file: /courses/1-259j-transit-management-fall-2006/ef5e189f63884d027488ee91c22d5f4b_lect24ja.pdf
 file_size: 73218
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

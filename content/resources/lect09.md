@@ -5,6 +5,8 @@ description: This resource contains slides on the critique of Fielding?s approac
 file: /courses/1-259j-transit-management-fall-2006/c5ec81a09f334eece8412dfa06855eff_lect09.pdf
 file_size: 31728
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

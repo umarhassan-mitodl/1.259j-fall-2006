@@ -5,6 +5,8 @@ description: This resource contains slides on the framework for program design m
 file: /courses/1-259j-transit-management-fall-2006/f3f50535128e8fdd12a0b902ef6931e7_lect22.pdf
 file_size: 62671
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

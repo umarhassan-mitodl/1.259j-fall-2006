@@ -5,6 +5,8 @@ description: This resource contains a book on the development of transit perform
 file: /courses/1-259j-transit-management-fall-2006/264b239127ffce90c73a1aa8dc408bac_tcrprept88.pdf
 file_size: 4871578
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
