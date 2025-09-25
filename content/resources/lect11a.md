@@ -4,6 +4,8 @@ description: This resource discusses the capital planning and programming at the
 file: /courses/1-259j-transit-management-fall-2006/281331473cebbb7820ca16b1b9d94bdd_lect11a.pdf
 file_size: 109293
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains an overview on the federal transit administr
 file: /courses/1-259j-transit-management-fall-2006/69709f9f210485c26016dc3c0cba69c5_lect12rd.pdf
 file_size: 132898
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

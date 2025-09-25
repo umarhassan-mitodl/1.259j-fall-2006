@@ -5,6 +5,8 @@ description: This resource contains a lecture on the roles for performance measu
 file: /courses/1-259j-transit-management-fall-2006/abb0a06af80ba5d839f6fa150b633e63_lect08.pdf
 file_size: 69821
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

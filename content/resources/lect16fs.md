@@ -4,6 +4,8 @@ description: This resource quotes labour issues and transits.
 file: /courses/1-259j-transit-management-fall-2006/1771d76f45c17980830d1fcaa3308f43_lect16fs.pdf
 file_size: 41915
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

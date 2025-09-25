@@ -5,6 +5,8 @@ description: This resource contains slides on Management Rights Legislation (MBT
 file: /courses/1-259j-transit-management-fall-2006/2d74f501ba614617456931797d31fbfc_lect18.pdf
 file_size: 57163
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

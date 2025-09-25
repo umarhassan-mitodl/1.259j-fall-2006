@@ -5,6 +5,8 @@ description: This resource contains slides on the organizational models, US impl
 file: /courses/1-259j-transit-management-fall-2006/0747ae4eaa5a42d43f07ea90ffbd1721_lect02.pdf
 file_size: 120742
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

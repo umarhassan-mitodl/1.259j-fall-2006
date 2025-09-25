@@ -5,6 +5,8 @@ description: This resource contains slides lecture on MBTA, restructuring of com
 file: /courses/1-259j-transit-management-fall-2006/3a97492b6c95edc59c4fb0846b94b7ca_lect04fs.pdf
 file_size: 84971
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

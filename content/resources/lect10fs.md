@@ -5,6 +5,8 @@ description: This resource contains slides containing comparison of the bakery v
 file: /courses/1-259j-transit-management-fall-2006/ebe4024d4d714be9775ebe292a9088cf_lect10fs.pdf
 file_size: 39223
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
