@@ -12,7 +12,7 @@ General Readings
 ----------------
 
 Transit Cooperative Research Program Syntheses, Reports, and Research Digests, 1994-present. (Key: R = Report, S = Synthesis, RRD = Research Report Digest, LRD = Legal Research Digest.)  
-All TCRP publications listed in the table below are available at their {{% resource_link "c787eccd-5dcf-4054-85ef-4c4ca262d382" "Web site" %}} after registering for free. Search by Project number.
+All TCRP publications listed in the table below are available at their [Web site](http://www.tcrponline.org/SitePages/AllPublications.aspx) after registering for free. Search by Project number.
 
 _Transportation Research Record_ (past 10 years) deals with transit management.
 
@@ -228,7 +228,7 @@ Guest Lecturer: Karla Karash, TranSystems
 
 "A Handbook of Proven Marketing Strategies for Public Transit." (Project B-13), R-50, Introductory Chapter.
 
-TCRP Web Document 8, "Marketing Transit Services to Business." {{% resource_link "77875df3-87aa-4d8a-a820-1af87d1be25e" "Executive Summary" %}}.
+TCRP Web Document 8, "Marketing Transit Services to Business." [Executive Summary](http://www.nap.edu/catalog.php?record_id=9437).
 
 "A Handbook: Integrating Market Research into Transit Management." (Project B-02), R-37.
 
